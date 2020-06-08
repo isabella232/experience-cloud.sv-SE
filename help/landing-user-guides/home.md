@@ -18,7 +18,7 @@ Den här sidan innehåller en omfattande lista med användarhandböcker och sjä
 
 >[!NOTE]
 >
->För att få bästa möjliga sökupplevelse när vi migrerar dokumentationsinnehåll rekommenderar vi att du navigerar genom produktavsnitten nedan och gör en sökning på stödlinjenivå
+>För att få en så bra sökupplevelse som möjligt när vi migrerar dokumentationsinnehåll rekommenderar vi att du navigerar genom produktavsnitten nedan och gör en sökning på guidenivå.
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
