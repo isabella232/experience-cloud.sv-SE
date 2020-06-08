@@ -2,10 +2,10 @@
 title: Adobe Experience Cloud - dokumentation
 description: Den här sidan innehåller en omfattande lista med all dokumentation om Adobe Experience Cloud samt användarhandböcker och självstudiekurser.
 translation-type: tm+mt
-source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
+source-git-commit: 5efddee70396ff07b918cfc60914701c89bcae41
 workflow-type: tm+mt
-source-wordcount: '1290'
-ht-degree: 20%
+source-wordcount: '1269'
+ht-degree: 24%
 
 ---
 
@@ -18,7 +18,7 @@ Den här sidan innehåller en omfattande lista med användarhandböcker och sjä
 
 >[!NOTE]
 >
->Sökfunktionen på den här sidan är begränsad till en liten uppsättning innehåll. Vi rekommenderar att du går till en specifik användarhandbok (som Analytics eller Target) för att söka i det området. Vi kommer att förbättra sökfunktionen med den kommande övergången till Experience League.
+>För att få bästa möjliga sökupplevelse när vi migrerar dokumentationsinnehåll rekommenderar vi att du navigerar genom produktavsnitten nedan och gör en sökning på stödlinjenivå
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
@@ -37,7 +37,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html"> Versionsinformation</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/release-notes/experience-cloud/current.html"> Versionsinformation</a></li>
     </ul>
   </td>
   <td>
@@ -59,8 +59,8 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Huvudguide för analyser</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Handbok för analysverktyg</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/analytics/landing/home.html">Huvudguide för analyser</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/analytics/analyze/home.html"> Handbok om Analytics-verktyg</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> Administratörshandbok</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> Komponentguide</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> Exporthandbok</a></li>
@@ -126,8 +126,8 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html"> Campaign Standard</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html"> Campaign Classic</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html"> Campaign Standard</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/campaign-classic-home.html"> Campaign Classic</a></li>
     </ul>
   </td>
   <td>
@@ -198,7 +198,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM-skrivbordsapp</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms Automated Conversion Service</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Dynamic Media Developer Guide</a></li>
     </ul>
   </td>
@@ -279,8 +279,8 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Handbok för kunddataplattform i realtid</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Användarhandbok för resesamordning</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Platstjänst</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html"> Användarhandbok för resesamordning</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service</a></li>
     </ul>
   </td>
   <td>
@@ -289,7 +289,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Självstudiekurser för Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Implementeringshandbok för lansering</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform Developer APIs</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Självstudiekurser om färjesamordning</a></li>
     </ul>
   </td>
@@ -428,5 +428,5 @@ Hjälp om Advertising Cloud finns i produkten genom att klicka på hjälpikonen 
 >* [Utbildning och support för Experience Cloud](https://helpx.adobe.com/support/experience-cloud.html)
 >* [Experience League](https://experienceleague.adobe.com/)
 >* [Community-forum](https://forums.adobe.com/community/experience-cloud/)
->* [Adobe Training and Tutorials](https://helpx.adobe.com/learning.html?promoid=KAUDK)
+>* [Adobe Training and Tutorials](https://helpx.adobe.com/se/learning.html?promoid=KAUDK)
 
