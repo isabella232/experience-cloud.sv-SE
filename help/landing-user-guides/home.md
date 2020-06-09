@@ -2,9 +2,9 @@
 title: Adobe Experience Cloud - dokumentation
 description: Den här sidan innehåller en omfattande lista med all dokumentation om Adobe Experience Cloud samt användarhandböcker och självstudiekurser.
 translation-type: tm+mt
-source-git-commit: 5efddee70396ff07b918cfc60914701c89bcae41
+source-git-commit: e7f6af8b2c52fe1154900c58a9b13d972d087e89
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1279'
 ht-degree: 24%
 
 ---
@@ -411,6 +411,7 @@ Hjälp om Advertising Cloud finns i produkten genom att klicka på hjälpikonen 
 <tr>
   <td>
     <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> Software Distribution</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/livefyre/using/home.html"> Användarhandbok för Livefyre</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/livefyre/implementation/home.html"> Handbok för Livefyre-implementering</a></li>
