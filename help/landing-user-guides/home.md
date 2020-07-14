@@ -2,10 +2,10 @@
 title: Adobe Experience Cloud - dokumentation
 description: Den här sidan innehåller en omfattande lista med all dokumentation om Adobe Experience Cloud samt användarhandböcker och självstudiekurser.
 translation-type: tm+mt
-source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
+source-git-commit: 1acfc2c352199022f1bd6c9d043ccc6714c6148b
 workflow-type: tm+mt
-source-wordcount: '1280'
-ht-degree: 26%
+source-wordcount: '1291'
+ht-degree: 28%
 
 ---
 
@@ -46,7 +46,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 </tbody>
 </table>
 
-## Analytics
+## Analyser
 
 <table>
 <thead>
@@ -177,7 +177,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tbody>
 <tr>
   <td>
-    <p><strong>AEM as a Cloud Service</strong></p>
+    <p><strong>AEM som molntjänst</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/landing/home.html"> AEM som Cloud Service Användarhandbok</a></li>
     </ul>
@@ -194,7 +194,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-htl/using/overview.html"> AEM HTL</a></li></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html"> AEM Core-komponenter</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/experience-manager-core-components/using/introduction.html"> AEM Core-komponenter</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM-skrivbordsapp</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms Automatisk konverteringstjänst</a></li>
@@ -236,9 +236,9 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/sv-SE/id-service/using/home.html"> Tjänstguide för Experience Cloud ID</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Handbok för mobiltjänster</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDKs</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op Guide</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/device-co-op/using/home.html"> Device Co-op Guide</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Dynamisk tagghanteringsguide</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/dtm/using/dtm-home.html"> Dynamisk tagghanteringsguide</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Platstjänst (tidigare platstjänst)</a></li>
     </ul>
   </td>
@@ -274,6 +274,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Revisor</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Felsökning</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html"> Felsökning v2 (beta)</a></li>
     </ul>
     <p><strong>Programtjänster som tillhandahålls av Experience Platform</strong></p>
     <ul>
@@ -426,7 +427,7 @@ Hjälp om Advertising Cloud finns tillgänglig genom att klicka på hjälpikonen
 
 >[!MORELIKETHIS]
 >
->* [Experience Cloud studiematerial och support](https://helpx.adobe.com/support/experience-cloud.html)
+>* [Experience Cloud studiematerial och support](https://helpx.adobe.com/se/support/experience-cloud.html)
 >* [Experience League](https://experienceleague.adobe.com/)
 >* [Community-forum](https://forums.adobe.com/community/experience-cloud/)
 >* [Adobe Training and Tutorials](https://helpx.adobe.com/se/learning.html?promoid=KAUDK)
