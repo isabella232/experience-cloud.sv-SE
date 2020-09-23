@@ -1,7 +1,7 @@
 ---
 cloud: experience-cloud
 solution-title: Experience Cloud
-solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
+solution-hub-url: https://helpx.adobe.com/se/support/experience-cloud.html
 solution-icon: assets/experience-cloud.png
 getting-started-title: Experience League
 getting-started-url: https://landing.adobe.com/experience-league/
@@ -10,24 +10,24 @@ index: true
 mini-toc-levels: 2
 product: experience cloud
 translation-type: tm+mt
-source-git-commit: fdc3d09bf382a1fc5ef8a5af98e545cec942df8d
+source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 95%
 
 ---
 
 
 # Metadata för intern användning
 
-Filen metadata.md innehåller metadata på postnivå som skickas till TOC.md-filer för användarhandboken i svaret. Om du vill ändra metadata.md-innehåll för en användarhandbok gör du det i en TOC.md-fil.
+Filen metadata.md innehåller metadata på arkivnivå som skickas till användarhandbokens TOC.md-filer i arkivet. Om du vill ändra innehåll i metadata.md för någon användarhandbok gör du detta i en TOC.md-fil.
 
-| metadata | vad den gör |
+| metadata | vad gör den |
 |--- |--- |
-| solution-title | Används i artikelrubriken som länk |
-| solution-hub-url | Öppnar navet för hjälpfunktioner |
-| solution-icon | Visar lösningsikonen bredvid lösningsrubriken. Inte implementerat ännu |
-| getting-started-url | Länk till hjälpsidan Komma igång |
-| tutorials-url | Länka till videosjälvstudiekurser - antingen hjälpstudiekurser eller självstudiekurser på engelska |
-| mini-toc-nivåer | Anger antalet rubriknivåer som visas i den högra listen. standard är 2 |
-| git-repo | Anger platsen för huvudrapporten för intern användning |
+| lösning-titel | Används i artikelrubriken som en länk |
+| lösning-hubb-url | Öppnar den centrala helpx-sidan |
+| lösning-ikon | Visar lösningsikonen bredvid lösningstiteln Inte implementerat ännu |
+| komma-igång-url | Länk till startsidan i helpx |
+| självstudiekurser-url | Länk till videosjälvstudiekurser – antingen helpx-självstudiekurser eller KT-självstudiekurser |
+| mini-toc-nivåer | Anger antalet rubriknivåer som visas i det högra fältet. standard är två |
+| git-arkiv | Anger platsen för det överordnade arkivet som används internt |
