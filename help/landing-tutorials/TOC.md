@@ -1,5 +1,5 @@
 ---
-user-guide-title: Användarhandböcker för Adobe Experience Cloud
+user-guide-title: Adobe Experience Cloud användarhandböcker
 translation-type: tm+mt
 source-git-commit: dda353ab4bf5274c438de2ed1772a41950d6c201
 workflow-type: tm+mt
@@ -9,6 +9,6 @@ ht-degree: 0%
 ---
 
 
-# Självstudiekurser för Experience Cloud {#tutorials}
+# Experience Cloud Tutorials {#tutorials}
 
-+ [Självstudiekurser för Experience Cloud](home.md)
++ [Experience Cloud Tutorials](home.md)
