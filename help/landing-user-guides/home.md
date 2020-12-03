@@ -5,7 +5,7 @@ translation-type: tm+mt
 source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
 workflow-type: tm+mt
 source-wordcount: '1295'
-ht-degree: 34%
+ht-degree: 35%
 
 ---
 
@@ -132,8 +132,8 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html"> Campaign Classic Tutorials</a></li>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html"> Campaign Standard Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html"> Självstudiekurser om Campaign Classic</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html"> Självstudiekurser om Campaign Standard</a></li>
     </ul>
   </td>
 </tr>
@@ -177,7 +177,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tbody>
 <tr>
   <td>
-    <p><strong>AEM som molntjänst</strong></p>
+    <p><strong>AEM as a Cloud Service</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/landing/home.html"> AEM som Cloud Service användarhandböcker</a></li>
     </ul>
@@ -286,7 +286,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform Video Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/overview.html"> Experience Platform Video Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Experience Platform Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Implementeringshandbok för lansering</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform Developer APIs</a></li>
