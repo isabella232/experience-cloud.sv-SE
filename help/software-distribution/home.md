@@ -1,11 +1,11 @@
 ---
 title: Software Distribution
-description: Så här använder du Adobe Experience Cloud-programvarudistribution
+description: Så här använder du Adobe Experience Cloud Software Distribution
 translation-type: tm+mt
 source-git-commit: 7a6397fa27deb3bb59372754104bd2a7115acedf
 workflow-type: tm+mt
 source-wordcount: '470'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
@@ -14,20 +14,20 @@ ht-degree: 1%
 
 ## Introduktion
 
-Från och med juni 2020 ersätter Experience Cloud- [!UICONTROL Software Distribution] sidan hämtningsplattformens [!UICONTROL PackageShare] för AEM och [!DNL Neolane] för [!DNL Campaign]. Det ger en effektivare upplevelse att hitta och ladda ned programvaran. Ett intuitivt användargränssnitt, en förenklad sökning och en avsevärt förbättrad nedladdningshastighet gör att nedladdningen av programpaket för Experience Cloud-produkter blir en bra användarupplevelse. Godkända programvarupaket från Adobe och paket från partnerföretag är nu tillgängliga för följande produkter:
+Från och med juni 2020 ersätter [!UICONTROL Software Distribution] sidan för Experience Cloud hämtningsplattformen nedladdningsplattformens [!UICONTROL PackageShare] för AEM och [!DNL Neolane] för [!DNL Campaign]. Det ger en effektivare upplevelse att hitta och ladda ned programvaran. Ett intuitivt användargränssnitt, en förenklad sökfunktion och avsevärt förbättrad nedladdningshastighet gör nedladdningen av programpaketen för Experience Cloud-produkterna till en bra användarupplevelse. Godkända programvarupaket från Adobe och paket från partnerföretag är nu tillgängliga för följande produkter:
 
-1. **Adobe Experience Manager** - allt som rör service och underhåll, säkerhet, verktyg med mera - för alla AEM-versioner som stöds.
-1. **Adobe Experience Manager som[!UICONTROL Cloud Service]**-[!UICONTROL AEM Cloud SDK],[!UICONTROL AEM Cloud]migreringsverktyg med mera.
+1. **Adobe Experience Manager** - allt som rör service och underhåll, säkerhet, verktyg med mera - för alla AEM som stöds.
+1. **Adobe Experience Manager som[!UICONTROL Cloud Service]** - [!UICONTROL AEM Cloud SDK], [!UICONTROL AEM Cloud] migreringsverktyg med mera.
 1. **Adobe Campaign** - Alla aktuella [!DNL Campaign] installationsversioner och tillhörande verktyg.
-1. **Allmänt** - Allmän verktygslåda, inklusive JDK: [!DNL Oracle] för Adobe-kunder.
+1. **Allmänt** - Allmän verktygslåda, inklusive JDK: [!DNL Oracle] er för Adobe-kunder.
 
 ## Tillgång till programvarudistribution
 
-Gå till [https://experience.adobe.com/downloads](https://experience.adobe.com/downloads) och logga in [!UICONTROL Software Distribution] med Adobe ID.
+Gå till [https://experience.adobe.com/downloads](https://experience.adobe.com/downloads) och logga in [!UICONTROL Software Distribution] med din Adobe ID.
 
 >[!IMPORTANT]
 >
->Inloggningsuppgifter från [!UICONTROL Package Share] eller [!DNL Neolane] fungerar inte i [!UICONTROL Software Distribution], vilket ger möjlighet att logga in med säkerhetsstandarder som omfattar hela Adobe. Om du inte känner till ditt Adobe ID kontaktar du en supportadministratör inom din organisation.
+>Inloggningsuppgifter från [!UICONTROL Package Share] eller [!DNL Neolane] kommer inte att fungera i [!UICONTROL Software Distribution], vilket ger möjlighet att logga in med säkerhetsstandarder som omfattar hela Adobe. Om du inte känner till din Adobe ID kontaktar du en supportadministratör i din organisation.
 
 ## Navigering
 
@@ -51,6 +51,6 @@ Du kan också dela en länk till just den nedladdningen. Klicka på knappen **De
 
 >[!NOTE]
 >
->[!UICONTROL Software Distribution] stöder endast webbläsarnedladdningar. När du använder AEM [!UICONTROL Package Manager] för nya installationer rekommenderar vi att du hämtar paketet till en lokal mapp och installerar paketet därifrån.
+>[!UICONTROL Software Distribution] stöder endast webbläsarnedladdningar. När du använder AEM [!UICONTROL Package Manager] för nya installationer bör du hämta paketet till en lokal mapp och installera paketet därifrån.
 
-[!UICONTROL Software Distribution] har byggts med AEM-komponenter och drivs av Adobe Experience Manager som en [!UICONTROL Cloud Service].
+[!UICONTROL Software Distribution] har byggts med AEM och drivs av Adobe Experience Manager som en [!UICONTROL Cloud Service].
