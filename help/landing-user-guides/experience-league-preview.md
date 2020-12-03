@@ -1,24 +1,24 @@
 ---
-title: Om att gå över till Experience League
+title: Om att gå till Experience League
 description: Den här sidan beskriver migreringen till Experience League och innehåller en lista med länkar till mellanlagrade användarhandböcker.
 translation-type: tm+mt
 source-git-commit: d5c08d95c032b642d1510a02ed859049fc3149d1
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
 
-# Om att gå över till Experience League
+# Om att gå till Experience League
 
 Adobe håller på att migrera Experience Cloud-dokumentation från `docs.adobe.com` till `experienceleague.adobe.com.`
 
-## Lista med mellanlagrade användarhandböcker om Experience League
+## Lista över mellanlagrade användarhandböcker på Experience League
 
-**Analyser**
+**Analytics** 
 
-* [Analyser](https://experienceleague.adobe.com/docs/analytics/landing/index.html)
+* [Analytics](https://experienceleague.adobe.com/docs/analytics/landing/index.html) 
 * [Analytics Platform](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)
 * [Medieanalys](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html)
 * [Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/index.html)
@@ -30,15 +30,15 @@ Adobe håller på att migrera Experience Cloud-dokumentation från `docs.adobe.c
 **Adobe Experience Manager**
 
 * [AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/index.html)
-* [AEM Automated Forms Conversion Service](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/introduction.html)
-* [AEM Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/index.html)
+* [Tjänsten AEM Automated forms conversion](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/introduction.html)
+* [AEM varumärkesportal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/index.html)
 * [AEM Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
 * [AEM Cloud Service Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service-cloud-manager/using/introduction-to-cloud-service.html)
-* [AEM Core-komponenter](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html)
-* [AEM Desktop](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html)
+* [AEM kärnkomponenter](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html)
+* [AEM](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html)
 * [AEM Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html)
-* [AEM HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html)
-* [AEM-skärmar](https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/aem-screens-introduction.html)
+* [AEM HTML](https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html)
+* [AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/aem-screens-introduction.html)
 
 **Campaign**
 
@@ -57,19 +57,19 @@ Adobe håller på att migrera Experience Cloud-dokumentation från `docs.adobe.c
 * [Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html)
 * [Starta](https://experienceleague.adobe.com/docs/launch/using/overview.html)
 
-**Mål**
+**Målgrupp**
 
-* [Mål](https://experienceleague.adobe.com/docs/target/using/target-home.html)
-* [Search&amp;Promote](https://experienceleague.adobe.com/docs/search-promote/using/sp-home.html)
+* [Målgrupp](https://experienceleague.adobe.com/docs/target/using/target-home.html)
+* [Search &amp; Promote](https://experienceleague.adobe.com/docs/search-promote/using/sp-home.html)
 
-**Lär dig självstudiekurser**
+**Lär dig Tutorials**
 
-* [AEM självstudiekurser](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html)
-* [Självstudiekurser om Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
+* [AEM Learn Tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html)
+* [Analytics Learn Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
 * [Audience Manager Learn](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html)
-* [Självstudiekurser om Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html)
-* [Självstudiekurser om Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html)
-* [Självstudiekurser för målutbildning](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html)
+* [Campaign Standard Learn Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html)
+* [Campaign Classic Learn Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html)
+* [Tutorials för målutbildning](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html)
 
 **Andra användarhandböcker**
 
