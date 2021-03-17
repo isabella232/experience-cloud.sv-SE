@@ -132,8 +132,8 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html"> Självstudiekurser om Campaign Classic</a></li>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html"> Självstudiekurser om Campaign Standard</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Självstudiekurser om Campaign Classic</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Självstudiekurser om Campaign Standard</a></li>
     </ul>
   </td>
 </tr>
@@ -233,12 +233,12 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/sv-SE/core-services/interface/experience-cloud.html"> Experience Cloud</a></li>
       <li><a href="https://helpx.adobe.com/se/enterprise/using/admin-console.html"> Admin Console</a></li>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/id-service/using/home.html"> Tjänstguide för Experience Cloud ID</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> Tjänstguide för Experience Cloud ID</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Handbok för mobiltjänster</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDKs</a></li>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/device-co-op/using/home.html"> Device Co-op Guide</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op Guide</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/dtm/using/dtm-home.html"> Dynamisk tagghanteringsguide</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Dynamisk tagghanteringsguide</a></li>
       <li><a href="https://docs.adobe.com/content/help/sv-SE/places/using/home.html"> Platstjänst (tidigare platstjänst)</a></li>
     </ul>
   </td>
@@ -281,16 +281,16 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Handbok för kunddataplattform i realtid</a></li>
       <li><a href="https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html"> Användarhandbok för Journey Orchestration</a></li>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/places/using/home.html"> Places Service</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/overview.html"> Experience Platform Video Tutorials</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform Video Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Experience Platform Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Implementeringshandbok för lansering</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform Developer APIs</a></li>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/sv-SE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Självstudiekurser om Journey Orchestration</a></li>
     </ul>
   </td>
@@ -412,7 +412,7 @@ Hjälp om Advertising Cloud finns tillgänglig genom att klicka på hjälpikonen
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/experience-cloud/software-distribution/home.html"> Software Distribution</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> Software Distribution</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html"> Search &amp; Promote</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/livefyre/using/home.html"> Användarhandbok för Livefyre</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/livefyre/implementation/home.html"> Handbok för Livefyre-implementering</a></li>
