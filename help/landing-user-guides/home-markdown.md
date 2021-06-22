@@ -1,11 +1,10 @@
 ---
 title: Adobe Experience Cloud Documentation
 description: Den här sidan innehåller en omfattande lista över all Adobe Experience Cloud-dokumentation och användarhandböcker och självstudiekurser.
-translation-type: tm+mt
-source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
+source-git-commit: fd3086f279572ccc2b61db1c6902ef7f7ab9591f
 workflow-type: tm+mt
 source-wordcount: '1148'
-ht-degree: 30%
+ht-degree: 29%
 
 ---
 
@@ -14,25 +13,25 @@ ht-degree: 30%
 
 Den här sidan innehåller en omfattande lista över all Adobe Experience Cloud-dokumentation och användarhandböcker och självstudiekurser.
 
-## ![Versionsinformation för](/help/assets/experience-cloud.png) ikon
+## ![](/help/assets/experience-cloud.png) IconRelease Notes
 
 | Användarhandbok |  |
 |--- |--- |
 | <ul><li>[Versionsinformation](https://docs.adobe.com/content/help/sv-SE/release-notes/experience-cloud/current.html)</li></ul> |  |
 
-## ![Ikonanalys](/help/assets/analytics.png)
+## ![](/help/assets/analytics.png) IconAnalytics
 
 | Användarhandböcker | Tutorials och utveckling |
 |--- |--- |
 | <ul><li>[Huvudguide för analyser](https://docs.adobe.com/content/help/sv-SE/analytics/landing/home.html)</li><li>[Analysguide](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/home.html)</li><li>[Administratörshandbok](https://docs.adobe.com/content/help/en/analytics/admin/home.html)</li><li>[Komponenthandbok](https://docs.adobe.com/content/help/en/analytics/components/home.html)</li><li>[Exporthandbok](https://docs.adobe.com/content/help/en/analytics/export/home.html)</li><li>[Implementeringshandbok](https://docs.adobe.com/content/help/en/analytics/implementation/home.html)</li><li>[Importera guide](https://docs.adobe.com/content/help/en/analytics/import/home.html)</li><li>[Integreringshandbok](https://docs.adobe.com/content/help/en/analytics/integration/home.html)</li><li>[Customer Journey Analytics](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html)</li></ul> | <ul><li>[Analytics Tutorials](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)</li><li>[API:er för Analytics](https://www.adobe.io/apis/experiencecloud/analytics/docs.html)</li></ul> |
 
-## ![Ikonmål](/help/assets/target.png)
+## ![](/help/assets/target.png) IconTarget
 
 | Användarhandbok | Självstudiekurser |
 |--- |--- |
 | <ul><li>[Målguide](https://docs.adobe.com/content/help/en/target/using/target-home.html)</li></ul> | <ul><li>[Tutorials](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html)</li></ul> |
 
-## ![Ikonkampanj](/help/assets/campaign.png)
+## ![](/help/assets/campaign.png) IconCampaign
 
 | Användarhandböcker | Självstudiekurser |
 |--- |--- |
@@ -56,30 +55,30 @@ Den här sidan innehåller en omfattande lista över all Adobe Experience Cloud-
 
 | Användarhandböcker | Tutorials och utveckling |
 |--- |--- |
-| <ul><li>[Handbok för kunddataplattform i realtid](https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html)</li><li>[Starta](https://docs.adobe.com/content/help/en/launch/using/overview.html)</li><li>[Revisor](https://docs.adobe.com/content/help/en/auditor/using/overview.html)</li><li>[Felsökning](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html)</li></ul> | <ul><li>[Experience Platform Tutorials](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/overview.html)</li><li>[Implementeringshandbok för lansering](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[Experience Platform Developer APIs](https://www.adobe.io/apis/experienceplatform/home/)</li><li>[Experience Platform Web SDK](https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html)</li></ul> |
+| <ul><li>[Handbok för kunddataplattform i realtid](https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html)</li><li>[Starta](https://docs.adobe.com/content/help/en/launch/using/home.html)</li><li>[Revisor](https://docs.adobe.com/content/help/en/auditor/using/overview.html)</li><li>[Felsökning](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html)</li></ul> | <ul><li>[Experience Platform Tutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)</li><li>[Implementeringshandbok för lansering](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[Experience Platform Developer APIs](https://www.adobe.io/apis/experienceplatform/home/)</li><li>[Experience Platform Web SDK](https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html)</li></ul> |
 
-## ![Ikonadministration](/help/assets/experience-cloud.png) , implementering och bastjänster
+## ![](/help/assets/experience-cloud.png) IconAdministration, implementering och bastjänster
 
 | Användarhandböcker | Självstudiekurser |
 |--- |--- |
-| <ul><li>[Admin Console](https://helpx.adobe.com/se/enterprise/using/admin-console.html)</li><li>[Gränssnitt för bastjänster](https://docs.adobe.com/content/help/sv-SE/core-services/interface/experience-cloud.html)</li><li>[ECID-tjänsthandbok](https://docs.adobe.com/content/help/sv-SE/id-service/using/home.html)</li><li>[Mobile Services v4 SDKs](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)</li><li>[Device Co-op Guide](https://docs.adobe.com/content/help/sv-SE/device-co-op/using/home.html)</li><li>[Starta](https://docs.adobe.com/content/help/en/launch/using/overview.html)</li><li>[DTM-guide](https://docs.adobe.com/content/help/sv-SE/dtm/using/dtm-home.html)</li></ul> | <ul><li>[Tutorials för bastjänster](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)</li><li>[Implementeringshandbok för lansering](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[Implementera Experience Cloud i iOS Swift-program för mobila enheter](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)</li><li>[Implementera Experience Cloud i iOS-tillämpningar med mål C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)</li><li>[Implementera Experience Cloud i mobila Android-appar](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)</li></ul> |
+| <ul><li>[Admin Console](https://helpx.adobe.com/se/enterprise/using/admin-console.html)</li><li>[Gränssnitt för bastjänster](https://docs.adobe.com/content/help/sv-SE/core-services/interface/experience-cloud.html)</li><li>[ECID-tjänsthandbok](https://docs.adobe.com/content/help/en/id-service/using/home.html)</li><li>[Mobile Services v4 SDKs](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)</li><li>[Device Co-op Guide](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)</li><li>[Starta](https://docs.adobe.com/content/help/en/launch/using/home.html)</li><li>[DTM-guide](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)</li></ul> | <ul><li>[Tutorials för bastjänster](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)</li><li>[Implementeringshandbok för lansering](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[Implementera Experience Cloud i iOS Swift-program för mobila enheter](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)</li><li>[Implementera Experience Cloud i iOS-tillämpningar med mål C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)</li><li>[Implementera Experience Cloud i mobila Android-appar](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)</li></ul> |
 
-## ![Ikonplatstjänst](/help/assets/experience-cloud.png)
+## ![Tjänsten ](/help/assets/experience-cloud.png) IconLocation
 
-* [Hjälp om platstjänst](https://docs.adobe.com/content/help/sv-SE/places/using/home.html)
+* [Hjälp om platstjänst](https://docs.adobe.com/content/help/en/places/using/home.html)
 
 ## ![Ikon](/help/assets/experience-cloud.png) Journey Orchestration
 
-* [Hjälp med Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/platform-learn/tutorials/overview.html)
+* [Hjälp med Journey Orchestration](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
-## ![Ikon](/help/assets/primetime.png) Primetime
+## ![](/help/assets/primetime.png) IconPrimetime
 
 * [Primetime Programming Guide](https://docs.adobe.com/content/help/en/primetime/programming/home.html)
 * [Primetime Digital Rights Management](https://docs.adobe.com/content/help/en/primetime/drm/home.html)
 * [Primetime - videouppspelning](https://docs.adobe.com/content/help/en/primetime/video-playback/home.html)
 * [Primetime Ad Insertion](https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html)
 * [Migreringshandbok för Primetime](https://docs.adobe.com/content/help/en/primetime/migration/home.html)
-* [Versionsinformation om Primetime](https://docs.adobe.com/content/help/sv-SE/primetime/release-notes/home.html)
+* [Versionsinformation om Primetime](https://docs.adobe.com/content/help/en/primetime/release-notes/home.html)
 
 ## ![Ikon](/help/assets/advertising-cloud.png) Advertising Cloud
 
@@ -88,18 +87,18 @@ Hjälp om Advertising Cloud finns tillgänglig genom att klicka på hjälpikonen
 * [Versionsinformation för Advertising Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud)
 * [Advertising Cloud Läs mer &amp; Support](https://helpx.adobe.com/support/advertising-cloud.html)
 
-## ![Icon](/help/assets/marketo.png) Marketo
+## ![](/help/assets/marketo.png) IconMarketo
 
-* [Marketo Product (Classic)](https://docs.marketo.com/)
+* [Marketo-produkt (klassisk)](https://docs.marketo.com/)
 * [Marketo Sky](https://help.marketo.com/hc/en-us)
 * [Bizible Docs](https://docs.marketo.com/display/BIZ/Bizible)
 
-## ![Ikon](/help/assets/magento.png) Magento
+## ![](/help/assets/magento.png) IconMagento
 
 * [Magento-dokumentation](https://magento.com/technical-resources)
 * [Användarhandbok för Magentio Business Intelligence (MBI)](https://docs.magento.com/mbi/)
 
-## ![Ikon](/help/assets/experience-cloud.png) - ytterligare stödlinjer för Experience Cloud
+## ![](/help/assets/experience-cloud.png) IkonFler stödlinjer för Experience Cloud
 
 * [Search &amp; Promote](https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html)
 * [Användarhandbok för Livefyre](https://docs.adobe.com/content/help/en/livefyre/using/home.html)
@@ -108,7 +107,7 @@ Hjälp om Advertising Cloud finns tillgänglig genom att klicka på hjälpikonen
 
 >[!MORELIKETHIS]
 >
->* [Experience Cloud studiematerial och support](https://helpx.adobe.com/se/support/experience-cloud.html)
+>* [Experience Cloud studiematerial och support](https://helpx.adobe.com/support/experience-cloud.html)
 >* [Experience League](https://experienceleague.adobe.com/)
 >* [Community-forum](https://forums.adobe.com/community/experience-cloud/)
 >* [Adobe Training and Tutorials](https://helpx.adobe.com/se/learning.html?promoid=KAUDK)
