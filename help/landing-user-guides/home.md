@@ -1,14 +1,13 @@
 ---
 title: Adobe Experience Cloud Documentation
 description: Den här sidan innehåller en omfattande lista över all Adobe Experience Cloud-dokumentation och användarhandböcker och självstudiekurser.
-translation-type: tm+mt
-source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
+exl-id: fef60cd5-62e1-48cb-9779-af3944951c62
+source-git-commit: fd3086f279572ccc2b61db1c6902ef7f7ab9591f
 workflow-type: tm+mt
 source-wordcount: '1295'
-ht-degree: 35%
+ht-degree: 34%
 
 ---
-
 
 # Adobe Experience Cloud Documentation
 
@@ -133,7 +132,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Självstudiekurser om Campaign Classic</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Självstudiekurser om Campaign Standard</a></li>
+      <li><a href="https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html"> Självstudiekurser om Campaign Standard</a></li>
     </ul>
   </td>
 </tr>
@@ -196,7 +195,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
       <li><a href="https://docs.adobe.com/content/help/sv-SE/experience-manager-core-components/using/introduction.html"> AEM kärnkomponenter</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM varumärkesportal</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM Forms Automated Conversion Service</a></li>
       <li><a href="https://docs.adobe.com/content/help/sv-SE/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Dynamic Media Developer Guide</a></li>
@@ -237,9 +236,9 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Handbok för mobiltjänster</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDKs</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op Guide</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/home.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Dynamisk tagghanteringsguide</a></li>
-      <li><a href="https://docs.adobe.com/content/help/sv-SE/places/using/home.html"> Platstjänst (tidigare platstjänst)</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Platstjänst (tidigare platstjänst)</a></li>
     </ul>
   </td>
   <td>
@@ -271,7 +270,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/landing/home.html"> Experience Platform-dokumentation</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html"> Versionsinformation om plattformen</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/home.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Revisor</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Felsökning</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html"> Felsökning v2 (beta)</a></li>
@@ -290,7 +289,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Experience Platform Tutorials</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Implementeringshandbok för lansering</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform Developer APIs</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> Webb-SDK för Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/sv-SE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Självstudiekurser om Journey Orchestration</a></li>
     </ul>
   </td>
@@ -365,7 +364,7 @@ Hjälp om Advertising Cloud finns tillgänglig genom att klicka på hjälpikonen
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.marketo.com/"> Marketo Product (Classic)</a></li>
+      <li><a href="https://docs.marketo.com/"> Marketo-produkt (klassisk)</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/marketo/sky/home.html"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizible Docs</a></li>
     </ul>
