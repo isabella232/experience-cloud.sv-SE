@@ -1,12 +1,12 @@
 ---
-title: Okänd
-description: Okänd
-exl-id: 8a277a28-c1ec-499b-9c57-e1f67ffdf327
-source-git-commit: 9a903c2c485bbe3c16d07c8495674856e8f26972
+title: Skapa och hantera utlösare för Experience Cloud
+description: Upptäck Adobe Experience Cloud Triggers UI
+source-git-commit: fb41c2e26a4945a9d9f24fec7f4c68a35af2c428
 workflow-type: tm+mt
-source-wordcount: '3'
-ht-degree: 0%
+source-wordcount: '16'
+ht-degree: 25%
 
 ---
 
-# Okänd
+
+# Utlösare i Adobe Experience Cloud{#triggers-home}

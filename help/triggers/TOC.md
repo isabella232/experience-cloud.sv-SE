@@ -1,15 +1,15 @@
 ---
-user-guide-title: Okänd
-user-guide-description: Okänd
-breadcrumb-title: Okänd
+user-guide-title: Utlösare i Adobe Experience Cloud
+user-guide-description: Utlösare i Adobe Experience Cloud
+breadcrumb-title: Utlösare i Adobe Experience Cloud
 solution: Experience Cloud
-source-git-commit: 9a903c2c485bbe3c16d07c8495674856e8f26972
+source-git-commit: fb41c2e26a4945a9d9f24fec7f4c68a35af2c428
 workflow-type: tm+mt
-source-wordcount: '5'
-ht-degree: 20%
+source-wordcount: '14'
+ht-degree: 100%
 
 ---
 
-# Okänd {#unknown}
+# Utlösare {#triggers}
 
 * [Start](home.md)
