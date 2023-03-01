@@ -2,7 +2,8 @@
 title: Global undertryckningslista
 description: Upptäck den globala listan över inaktiveringar
 hide: true
-source-git-commit: a946cfb1027896f6e45aaf88d25ad7114d6b5ac6
+exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
+source-git-commit: b66e2525694c771ebb7ac5190b7259ef5658d81a
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
@@ -69,6 +70,7 @@ Om du vill göra det väljer du **[!UICONTROL Add email or domain]** och däreft
    EMAIL,abc@somedomain.com,Comment
    DOMAIN,somedomain.com,Comment
    ```
+
    >[!CAUTION]
    >
    >Ändra inte namnen på kolumnerna i CSV-mallen.
@@ -108,4 +110,3 @@ Om du vill ta bort en adress från den globala listan över inaktiveringar anvä
 >[!CAUTION]
 >
 >Adresser eller domäner som läggs till automatiskt av tredjeparts tjänsteleverantör Blackbox kan inte tas bort av konsulter via gränssnittet. Detta kan endast göras via en backend-biljett.
-
