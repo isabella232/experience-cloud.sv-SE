@@ -3,7 +3,8 @@ title: Skapa och hantera utlösare för Experience Cloud
 description: Upptäck Adobe Experience Cloud Triggers UI
 hide: true
 hidefromtoc: true
-source-git-commit: ce0faf9fab45c931feb666ac0c77f5ab5c231746
+exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
+source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 0%
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 Skapa en utlösare och konfigurera villkoren för utlösaren. Du kan till exempel ange villkor för en utlösares regler under ett besök, till exempel mått som Cart Abandon eller dimensioner som produktnamnet. När reglerna är uppfyllda körs utlösaren.
 
-1. I Experience Cloud väljer du den avancerade menyn och sedan Utlösare.
+1. I Experience Cloud väljer du menyn för lösningsväljaren och sedan **[!UICONTROL Triggers]**.
 
    ![](assets/triggers_7.png)
 
@@ -38,7 +39,7 @@ Skapa en utlösare och konfigurera villkoren för utlösaren. Du kan till exempe
 
 1. Välj Analytics **[!UICONTROL Report Suite]** används för den här utlösaren. Den här inställningen identifierar de rapportdata som ska användas.
 
-   [Läs mer om Report Suite](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html).
+   [Läs mer om Report Suite](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html){target="_blank"}.
 
 1. Välj **[!UICONTROL Trigger after no action for]** giltighetsperiod.
 

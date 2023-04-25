@@ -1,11 +1,10 @@
 ---
 title: Skapa och hantera utlösare för Experience Cloud
 description: Upptäck Adobe Experience Cloud Triggers UI
-hide: true
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
-source-git-commit: ce0faf9fab45c931feb666ac0c77f5ab5c231746
+source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 3%
 
 ---
