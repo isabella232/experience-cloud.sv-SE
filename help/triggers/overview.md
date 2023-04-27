@@ -1,7 +1,10 @@
 ---
 title: Skapa och hantera utlösare för Experience Cloud
 description: Upptäck Adobe Experience Cloud Triggers UI
-source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
+hide: true
+hidefromtoc: true
+exl-id: 2c8f58aa-cade-46c1-beaa-cfe7720e4e90
+source-git-commit: 7304dc2d08f78bd287fc0cae6e11021aa6ed1149
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 1%
@@ -25,4 +28,3 @@ I allmänhet kan en utlösare ta 15-90 minuter att starta en marknadsföringskam
 * **Övergiven:** Du kan skapa en utlösare som aktiveras när en besökare tittar på en produkt men inte lägger till något i kundvagnen.
 * **Åtgärd:** Du kan skapa utlösare, till exempel, som aktiveras efter anmälan till nyhetsbrev, e-postprenumerationer eller program för kreditkort (bekräftelser). Om du är återförsäljare kan du skapa en utlösare för en besökare som registrerar sig för ett lojalitetsprogram. I media och underhållning skapar du triggers för besökare som tittar på en viss show och kanske vill svara med en enkät.
 * **Sessionsstart och sessionsslut:** Skapa en utlösare för händelser för sessionsstart och sessionsslut.
-
