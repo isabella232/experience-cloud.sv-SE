@@ -1,10 +1,8 @@
 ---
 title: Skapa och hantera utlösare för Experience Cloud
 description: Upptäck Adobe Experience Cloud Triggers UI
-hide: true
-hidefromtoc: true
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
-source-git-commit: 7304dc2d08f78bd287fc0cae6e11021aa6ed1149
+source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 3%
@@ -16,7 +14,6 @@ ht-degree: 3%
 Det nya användargränssnittet för Experience Cloud Triggers ger en intuitiv upplevelse för att hantera konsumentbeteenden och personalisera användarupplevelser.
 
 Du kan använda Experience Cloud Triggers för att koppla data mellan Adobe Campaign och Adobe Analytics med hjälp av pipeline. Pipelinen hämtar användarens åtgärder eller utlösare från din webbplats. En kundvagnsöverläggning är ett exempel på utlösare. Utlösare bearbetas i Adobe Campaign för att skicka e-post i nära realtid.
-
 
 **Länkar:**
 
