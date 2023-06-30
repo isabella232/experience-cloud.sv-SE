@@ -2,20 +2,24 @@
 title: Skapa och hantera utlösare för Experience Cloud
 description: Upptäck Adobe Experience Cloud Triggers UI
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
-source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
+source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
 
 # Skapa en Experience Cloud-utlösare {#create-triggers}
 
+>[!AVAILABILITY]
+>
+>Adobe Experience Cloud Triggers nya användargränssnitt lanseras stegvis för alla kunder. Kontakta din Adobe-representant om du vill ha mer information.
+
+Skapa en utlösare och konfigurera villkoren för utlösaren. Du kan till exempel ange villkor för en utlösares regler under ett besök, till exempel mått som Cart Abandon eller dimensioner som produktnamnet. När reglerna är uppfyllda körs utlösaren.
+
 >[!NOTE]
 >
 > Det nya användargränssnittet för Experience Cloud Triggers ger en intuitiv upplevelse för att hantera konsumentbeteenden och personalisera användarupplevelser. Klicka på knappen **[!UICONTROL Go to classic mode]** -knappen.
-
-Skapa en utlösare och konfigurera villkoren för utlösaren. Du kan till exempel ange villkor för en utlösares regler under ett besök, till exempel mått som Cart Abandon eller dimensioner som produktnamnet. När reglerna är uppfyllda körs utlösaren.
 
 1. I Experience Cloud väljer du menyn för lösningsväljaren och sedan **[!UICONTROL Triggers]**.
 

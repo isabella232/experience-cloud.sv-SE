@@ -2,14 +2,18 @@
 title: Skapa och hantera utlösare för Experience Cloud
 description: Upptäck Adobe Experience Cloud Triggers UI
 exl-id: 2c8f58aa-cade-46c1-beaa-cfe7720e4e90
-source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
+source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
 
 # Om Experience Cloud-utlösare {#overview}
+
+>[!AVAILABILITY]
+>
+>Adobe Experience Cloud Triggers nya användargränssnitt lanseras stegvis för alla kunder. Kontakta din Adobe-representant om du vill ha mer information.
 
 Experience Cloud Triggers är en heltäckande lösning för att identifiera, definiera och övervaka viktiga konsumentbeteenden. Med dessa triggers kan ni generera kommunikation mellan olika program för att engagera besökarna på nytt, vilket ger en mer personaliserad och engagerande användarupplevelse.
 
