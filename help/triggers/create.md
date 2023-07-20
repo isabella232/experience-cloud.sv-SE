@@ -2,7 +2,7 @@
 title: Skapa och hantera utlösare för Experience Cloud
 description: Upptäck Adobe Experience Cloud Triggers UI
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
-source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
+source-git-commit: 94ca96baaef706ace2ed131a5c2974371a5e0e57
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Skapa en utlösare och konfigurera villkoren för utlösaren. Du kan till exempe
 
    Varje behållare bearbetas oberoende vid träffnivån, vilket innebär att om två behållare förenas med **[!UICONTROL And]** -operatorn är reglerna endast giltiga när två träffar uppfyller kraven.
 
-1. Från **[!UICONTROL Metadata]** fält, klicka **[!UICONTROL + Dimension]** för att välja en viss Campaign-dimension eller variabler som är relevanta för besökarens beteende.
+1. Från **[!UICONTROL Metadata]** fält, klicka **[!UICONTROL + Dimension]** för att välja en viss Campaign-dimension eller variabler som är relevanta för en besökares beteende.
 
    ![](assets/triggers_3.png)
 
